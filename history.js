@@ -8,6 +8,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.32,
     "video_file": "podcast_ep1_20261015_151254.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 2,
+    "topic": "If Animals Wore Clothes: A Fashionable Fun Adventure! 🐘👕",
+    "date": "2026-10-16T15:20:06.842218",
+    "duration_sec": 1541.93,
+    "duration_min": 25.7,
+    "video_file": "podcast_ep2_20261016_145826.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
