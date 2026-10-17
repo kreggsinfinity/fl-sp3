@@ -17,6 +17,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.7,
     "video_file": "podcast_ep2_20261016_145826.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "If Toys Could Talk: A Secret Adventure in My Bedroom! 🦶👶",
+    "date": "2026-10-17T14:13:57.340710",
+    "duration_sec": 1542.26,
+    "duration_min": 25.7,
+    "video_file": "podcast_ep3_20261017_135113.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
