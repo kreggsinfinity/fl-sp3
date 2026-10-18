@@ -26,6 +26,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.7,
     "video_file": "podcast_ep3_20261017_135113.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "If Clouds Were Candy: A Sweet Sky Adventure! 🍰🍬",
+    "date": "2026-10-18T14:26:48.438035",
+    "duration_sec": 1468.17,
+    "duration_min": 24.47,
+    "video_file": "podcast_ep4_20261018_140628.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
