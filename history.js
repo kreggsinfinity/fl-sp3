@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.47,
     "video_file": "podcast_ep4_20261018_140628.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "What If We Could Fly? Soaring Through Our Dreams!",
+    "date": "2026-10-19T17:24:59.337784",
+    "duration_sec": 1403.76,
+    "duration_min": 23.4,
+    "video_file": "podcast_ep5_20261019_170504.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
