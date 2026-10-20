@@ -44,6 +44,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.4,
     "video_file": "podcast_ep5_20261019_170504.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "What If We Had Superpowers for a Day? Awesome Abilities for Kids!",
+    "date": "2026-10-20T15:38:08.156134",
+    "duration_sec": 1489.49,
+    "duration_min": 24.82,
+    "video_file": "podcast_ep6_20261020_151722.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
