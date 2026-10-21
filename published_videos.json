@@ -61,5 +61,14 @@
     "duration_min": 23.9,
     "video_file": "podcast_ep7_20261021_013937.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "If Plants Could Giggle: A Whispering Garden Adventure! 🌱👲️",
+    "date": "2026-10-21T15:50:39.490380",
+    "duration_sec": 1424.9,
+    "duration_min": 23.75,
+    "video_file": "podcast_ep8_20261021_152930.mp4",
+    "platform": "Facebook"
   }
 ]
