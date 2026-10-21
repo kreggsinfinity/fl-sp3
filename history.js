@@ -53,6 +53,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.82,
     "video_file": "podcast_ep6_20261020_151722.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 7,
+    "topic": "If Our Food Could Talk: A Silly Kitchen Adventure! 🍎🗣️",
+    "date": "2026-10-21T01:52:51.822078",
+    "duration_sec": 1434.24,
+    "duration_min": 23.9,
+    "video_file": "podcast_ep7_20261021_013937.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
