@@ -71,6 +71,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.75,
     "video_file": "podcast_ep8_20261021_152930.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "If Our Shadows Could Play Hide-and-Seek!",
+    "date": "2026-10-22T15:53:59.964907",
+    "duration_sec": 1553.38,
+    "duration_min": 25.89,
+    "video_file": "podcast_ep9_20261022_152830.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
