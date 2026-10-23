@@ -80,6 +80,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.89,
     "video_file": "podcast_ep9_20261022_152830.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "If Our Houses Could Talk: What Would They Say?",
+    "date": "2026-10-23T15:44:27.964659",
+    "duration_sec": 1552.06,
+    "duration_min": 25.87,
+    "video_file": "podcast_ep10_20261023_152129.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
