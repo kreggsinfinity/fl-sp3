@@ -89,6 +89,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.87,
     "video_file": "podcast_ep10_20261023_152129.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "If Our Dreams Had a Secret Map: Exploring Fantastical Worlds!",
+    "date": "2026-10-24T14:32:35.910508",
+    "duration_sec": 1521.34,
+    "duration_min": 25.36,
+    "video_file": "podcast_ep11_20261024_140450.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
