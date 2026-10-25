@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.36,
     "video_file": "podcast_ep11_20261024_140450.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "If Our Crayons Could Draw Themselves! A Colorful Imagination Adventure!",
+    "date": "2026-10-25T14:56:19.425841",
+    "duration_sec": 1451.35,
+    "duration_min": 24.19,
+    "video_file": "podcast_ep12_20261025_142923.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
