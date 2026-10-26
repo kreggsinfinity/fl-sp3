@@ -107,6 +107,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.19,
     "video_file": "podcast_ep12_20261025_142923.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "If Our School Bus Could Explore Outer Space! 🚀✨",
+    "date": "2026-10-26T17:21:20.211154",
+    "duration_sec": 1519.41,
+    "duration_min": 25.32,
+    "video_file": "podcast_ep13_20261026_165221.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
