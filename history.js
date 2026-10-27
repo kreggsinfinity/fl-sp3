@@ -116,6 +116,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.32,
     "video_file": "podcast_ep13_20261026_165221.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "What If Your Backpack Could Pack Itself? 🡲🤟",
+    "date": "2026-10-27T16:23:22.015026",
+    "duration_sec": 1350.6,
+    "duration_min": 22.51,
+    "video_file": "podcast_ep14_20261027_155734.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
