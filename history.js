@@ -125,6 +125,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.51,
     "video_file": "podcast_ep14_20261027_155734.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "If Our Socks Could Secretly Swap Places! A Laundry Day Mystery!",
+    "date": "2026-10-28T17:05:53.142105",
+    "duration_sec": 1382.57,
+    "duration_min": 23.04,
+    "video_file": "podcast_ep15_20261028_164544.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
