@@ -142,5 +142,14 @@
     "duration_min": 24.04,
     "video_file": "podcast_ep16_20261029_170204.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "If Our Toes Could Talk: A Wiggle-Wormy Adventure!",
+    "date": "2026-10-30T17:08:19.895495",
+    "duration_sec": 1512.26,
+    "duration_min": 25.2,
+    "video_file": "podcast_ep17_20261030_164637.mp4",
+    "platform": "Facebook"
   }
 ]
