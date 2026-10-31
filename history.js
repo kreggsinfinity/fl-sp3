@@ -152,6 +152,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.2,
     "video_file": "podcast_ep17_20261030_164637.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "If Our Puddles Were Portals: Splashing into New Worlds!",
+    "date": "2026-10-31T16:08:49.894789",
+    "duration_sec": 1355.9,
+    "duration_min": 22.6,
+    "video_file": "podcast_ep18_20261031_154939.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
