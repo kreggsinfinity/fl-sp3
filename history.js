@@ -161,6 +161,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.6,
     "video_file": "podcast_ep18_20261031_154939.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "If Our Pencils Could Write Stories by Themselves! ✏️✨",
+    "date": "2026-11-01T17:07:53.053994",
+    "duration_sec": 1412.71,
+    "duration_min": 23.55,
+    "video_file": "podcast_ep19_20261101_165338.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
