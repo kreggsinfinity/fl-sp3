@@ -169,5 +169,14 @@
     "duration_min": 23.55,
     "video_file": "podcast_ep19_20261101_165338.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "If Your Teddy Bear Could Tell Jokes! A Giggle-rific Adventure!",
+    "date": "2026-11-02T20:49:41.251889",
+    "duration_sec": 1570.87,
+    "duration_min": 26.18,
+    "video_file": "podcast_ep20_20261102_202821.mp4",
+    "platform": "Facebook"
   }
 ]
