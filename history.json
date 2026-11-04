@@ -187,5 +187,14 @@
     "duration_min": 23.1,
     "video_file": "podcast_ep21_20261103_175848.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "If Our Bedtime Stories Could Come to Life!",
+    "date": "2026-11-04T18:33:46.340691",
+    "duration_sec": 1573.32,
+    "duration_min": 26.22,
+    "video_file": "podcast_ep22_20261104_181019.mp4",
+    "platform": "Facebook"
   }
 ]
