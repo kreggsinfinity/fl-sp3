@@ -196,5 +196,14 @@
     "duration_min": 26.22,
     "video_file": "podcast_ep22_20261104_181019.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "If Our Fingers Could Paint the Sky: A Colorful Cosmic Adventure!",
+    "date": "2026-11-05T18:32:51.805662",
+    "duration_sec": 1518.29,
+    "duration_min": 25.3,
+    "video_file": "podcast_ep23_20261105_181055.mp4",
+    "platform": "Facebook"
   }
 ]
