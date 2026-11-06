@@ -205,5 +205,14 @@
     "duration_min": 25.3,
     "video_file": "podcast_ep23_20261105_181055.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "If Our Bikes Could Be Spaceships: Galactic Adventures Await!",
+    "date": "2026-11-06T18:00:52.059046",
+    "duration_sec": 1557.55,
+    "duration_min": 25.96,
+    "video_file": "podcast_ep24_20261106_173810.mp4",
+    "platform": "Facebook"
   }
 ]
