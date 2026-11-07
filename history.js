@@ -215,6 +215,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.96,
     "video_file": "podcast_ep24_20261106_173810.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "If Our Houses Could Sing! A Melodious Neighborhood Adventure! 🏠🎶",
+    "date": "2026-11-07T16:49:22.436988",
+    "duration_sec": 1524.17,
+    "duration_min": 25.4,
+    "video_file": "podcast_ep25_20261107_163436.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
