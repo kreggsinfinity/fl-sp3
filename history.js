@@ -224,6 +224,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.4,
     "video_file": "podcast_ep25_20261107_163436.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "If Our Backpacks Could Pack Snacks! A Delicious Discovery!",
+    "date": "2026-11-08T17:07:54.663059",
+    "duration_sec": 1560.93,
+    "duration_min": 26.02,
+    "video_file": "podcast_ep26_20261108_164535.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
