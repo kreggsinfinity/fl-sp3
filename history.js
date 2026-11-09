@@ -233,6 +233,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.02,
     "video_file": "podcast_ep26_20261108_164535.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "If Our Shadows Could Whisper Secrets! A Spooky Fun Adventure!",
+    "date": "2026-11-09T21:17:04.333443",
+    "duration_sec": 1467.98,
+    "duration_min": 24.47,
+    "video_file": "podcast_ep27_20261109_205609.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
