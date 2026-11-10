@@ -242,6 +242,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.47,
     "video_file": "podcast_ep27_20261109_205609.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "If Our School Supplies Could Explore the Jungle!",
+    "date": "2026-11-10T18:27:21.478327",
+    "duration_sec": 1506.5,
+    "duration_min": 25.11,
+    "video_file": "podcast_ep28_20261110_180511.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
