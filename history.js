@@ -251,6 +251,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.11,
     "video_file": "podcast_ep28_20261110_180511.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "If Our Puddles Were Portals to Animal Kingdoms! Splash into New Adventures!",
+    "date": "2026-11-11T18:17:37.453304",
+    "duration_sec": 1520.45,
+    "duration_min": 25.34,
+    "video_file": "podcast_ep29_20261111_175857.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
