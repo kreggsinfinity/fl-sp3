@@ -260,6 +260,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.34,
     "video_file": "podcast_ep29_20261111_175857.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "If Our Puddles Were Time Machines: A Splashy Trip to the Dinosaurs!",
+    "date": "2026-11-12T18:51:27.608370",
+    "duration_sec": 1446.26,
+    "duration_min": 24.1,
+    "video_file": "podcast_ep30_20261112_183018.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
