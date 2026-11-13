@@ -268,5 +268,14 @@
     "duration_min": 24.1,
     "video_file": "podcast_ep30_20261112_183018.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "If Our Pet Rocks Could Roam: A Stone-Cold Adventure!",
+    "date": "2026-11-13T18:15:49.629460",
+    "duration_sec": 1462.7,
+    "duration_min": 24.38,
+    "video_file": "podcast_ep31_20261113_175735.mp4",
+    "platform": "Facebook"
   }
 ]
