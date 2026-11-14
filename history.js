@@ -278,6 +278,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.38,
     "video_file": "podcast_ep31_20261113_175735.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "If Our Dreams Were Zookeepers! A Wild Adventure with Talking Animals!",
+    "date": "2026-11-14T16:59:24.870473",
+    "duration_sec": 1464.29,
+    "duration_min": 24.4,
+    "video_file": "podcast_ep32_20261114_164051.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
