@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.4,
     "video_file": "podcast_ep32_20261114_164051.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "If Our Crayons Could Giggle: A Colorful Conversation in the Art Box!",
+    "date": "2026-11-15T17:37:43.505512",
+    "duration_sec": 1434.48,
+    "duration_min": 23.91,
+    "video_file": "podcast_ep33_20261115_172028.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
