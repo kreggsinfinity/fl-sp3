@@ -296,6 +296,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.91,
     "video_file": "podcast_ep33_20261115_172028.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "If Our Pencils Could Draw Planets: A Cosmic Sketching Adventure! 🌌✨",
+    "date": "2026-11-16T20:51:55.260269",
+    "duration_sec": 1521.48,
+    "duration_min": 25.36,
+    "video_file": "podcast_ep34_20261116_203752.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
