@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.92,
     "video_file": "podcast_ep35_20261117_191731.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "If Our Bubbles Could Talk: A Fizzy, Funny Chat!",
+    "date": "2026-11-18T19:33:04.872469",
+    "duration_sec": 1499.73,
+    "duration_min": 25.0,
+    "video_file": "podcast_ep36_20261118_191638.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
