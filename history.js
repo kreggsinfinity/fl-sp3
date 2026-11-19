@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.0,
     "video_file": "podcast_ep36_20261118_191638.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "If Our Shoes Could Walk Themselves: A Sneaky Adventure!",
+    "date": "2026-11-19T19:27:20.762222",
+    "duration_sec": 1460.52,
+    "duration_min": 24.34,
+    "video_file": "podcast_ep37_20261119_190606.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
