@@ -340,5 +340,14 @@
     "duration_min": 26.38,
     "video_file": "podcast_ep38_20261120_184330.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "If Our Stuffed Animals Could Visit the Moon! A Lunar Playdate Adventure!",
+    "date": "2026-11-21T18:03:41.775092",
+    "duration_sec": 1547.81,
+    "duration_min": 25.8,
+    "video_file": "podcast_ep39_20261121_174303.mp4",
+    "platform": "Facebook"
   }
 ]
