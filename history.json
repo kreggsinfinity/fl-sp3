@@ -349,5 +349,14 @@
     "duration_min": 25.8,
     "video_file": "podcast_ep39_20261121_174303.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 40,
+    "topic": "If Our Shadows Could Play Hide-and-Seek: A Game of Light and Dark!",
+    "date": "2026-11-22T18:17:46.449326",
+    "duration_sec": 1395.19,
+    "duration_min": 23.25,
+    "video_file": "podcast_ep40_20261122_175758.mp4",
+    "platform": "Facebook"
   }
 ]
