@@ -358,5 +358,14 @@
     "duration_min": 23.25,
     "video_file": "podcast_ep40_20261122_175758.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "If Our Trees Could Tell Secrets: A Whispering Forest Adventure!",
+    "date": "2026-11-23T22:32:17.083869",
+    "duration_sec": 1475.73,
+    "duration_min": 24.6,
+    "video_file": "podcast_ep41_20261123_221028.mp4",
+    "platform": "Facebook"
   }
 ]
