@@ -367,5 +367,14 @@
     "duration_min": 24.6,
     "video_file": "podcast_ep41_20261123_221028.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "If Our Food Could Talk: A Yummy Chat About Our Favorite Snacks!",
+    "date": "2026-11-24T21:07:08.226126",
+    "duration_sec": 1540.37,
+    "duration_min": 25.67,
+    "video_file": "podcast_ep42_20261124_204529.mp4",
+    "platform": "Facebook"
   }
 ]
