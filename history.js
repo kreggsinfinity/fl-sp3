@@ -377,6 +377,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.67,
     "video_file": "podcast_ep42_20261124_204529.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 43,
+    "topic": "If Our Crayons Could Dream of the Ocean! 🌊🖍️",
+    "date": "2026-11-25T20:20:12.860493",
+    "duration_sec": 1513.44,
+    "duration_min": 25.22,
+    "video_file": "podcast_ep43_20261125_200242.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
