@@ -386,6 +386,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.22,
     "video_file": "podcast_ep43_20261125_200242.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 44,
+    "topic": "If Our Crayons Could Draw the Weather! A Colorful Forecast Adventure!",
+    "date": "2026-11-26T20:06:07.272509",
+    "duration_sec": 1489.58,
+    "duration_min": 24.83,
+    "video_file": "podcast_ep44_20261126_194459.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
