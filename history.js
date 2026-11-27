@@ -395,6 +395,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.83,
     "video_file": "podcast_ep44_20261126_194459.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 45,
+    "topic": "If Our Crayons Could Build a Rainbow Castle! A Colorful Kingdom Adventure!",
+    "date": "2026-11-27T19:54:03.653065",
+    "duration_sec": 1452.43,
+    "duration_min": 24.21,
+    "video_file": "podcast_ep45_20261127_193455.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
